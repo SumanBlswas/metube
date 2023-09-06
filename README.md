@@ -38,7 +38,7 @@
 
 ## Home Page :
 
-![Home](https://github.com/SumanBlswas/blogspot/assets/112753516/1e0cb360-f693-43cc-93a4-2517761594d1)
+![Home](https://github.com/SumanBlswas/metube/assets/112753516/6f7a86f0-6998-4847-a637-746e6f759b0a)
 
 ## My Learnings
 
