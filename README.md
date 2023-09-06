@@ -1,47 +1,59 @@
-# Getting Started with Create React App
+# Welcome to MeTube
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3>BlogSpot is a leading video streaming platform.  This Project Fully Built by me within 24 Hours.
+</h3>
 
-## Available Scripts
+# Deployed URL 👉 [Click here](https://metube-omega.vercel.app/)
 
-In the project directory, you can run:
+## Member
 
-### `npm start`
+- Suman Biswas (My Linkedin profile :- https://www.linkedin.com/in/suman-biswas-158022248/)
+  <br/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Some Key Notes
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- React + TypeScript + Vite For Frontend
+- Deployed to Vercel
 
-### `npm test`
+<br/>
+<h4 align="center">💻 Tech Stack</h4>
+ <div align="center">
+ <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+ <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+ <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  align="center" alt="javascript" />
+   <img src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E"  align="center" alt="typescript" />
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+</div>
+<br/>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<div align="center"><h3 align="center">Tools</h3> 
+  <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+</div>
+<br/>
 
-### `npm run build`
+## Let's Dive into What I have made
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Home Page :
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Home](https://github.com/SumanBlswas/blogspot/assets/112753516/1e0cb360-f693-43cc-93a4-2517761594d1)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## My Learnings
 
-### `npm run eject`
+On this journey I faced many issues, but I keep motivated myself with patience.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- I learned how to write more efficient and clean code.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Even though I also learned how to plan a project and how to execute it step by step.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- By this Project I have learned how to improve the productivity.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- I also got a glimpse of using GitHub for the version control.
 
-## Learn More
+## Show your support
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Give a ⭐️ if you like this project!
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-# metube
+### Thank you
