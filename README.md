@@ -12,7 +12,7 @@
 
 ## Some Key Notes
 
-- React + TypeScript + Vite For Frontend
+- React + TypeScript
 - Deployed to Vercel
 
 <br/>
